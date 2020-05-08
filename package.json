@@ -1,0 +1,8 @@
+{
+  "name": "com.sanwun.test.upm",
+  "displayName": "SanWun Test UPM",
+  "version": "0.0.0",
+  "description": "test upm git",
+  "author": "sanwun",
+  "src": "Assets/Test UPM",
+}
